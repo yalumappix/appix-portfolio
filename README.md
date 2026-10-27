@@ -81,6 +81,38 @@ Des pages qui donnent une place centrale au contenu et à l’action.
 
 </div>
 
+## Projet — Veloria, maison de douceurs
+
+Trois vues du site conceptuel Veloria : accueil, créations gourmandes et formulaire de contact.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.46.17.png" width="100%" alt="Accueil du site Veloria" />
+
+**01 — Accueil**
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.45.23.png" width="100%" alt="Créations gourmandes de Veloria" />
+
+**02 — Créations gourmandes**
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.45.52.png" width="100%" alt="Formulaire de contact Veloria" />
+
+**03 — Contact**
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 03 — Ce que je crée
 
 <table>
