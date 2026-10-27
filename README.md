@@ -20,9 +20,9 @@
 
 ## À propos
 
-Je suis **YALUM**, créateur de sites web et développeur d’**APPIX**. Ce portfolio rassemble des projets et des concepts web à travers leurs interfaces, leurs choix visuels et l’expérience proposée.
+**YALUM** est dédié à la création de sites web et au développement d’**APPIX**. Ce portfolio rassemble des projets et des concepts web à travers leurs interfaces, leurs choix visuels et l’expérience proposée.
 
-Je privilégie des compositions lisibles, une identité cohérente et des interfaces adaptées à leur objectif. Les visuels présentés peuvent inclure des concepts ; lorsqu’un projet est une démonstration, il est indiqué comme tel.
+L’approche privilégie des compositions lisibles, une identité cohérente et des interfaces adaptées à leur objectif. Les visuels présentés peuvent inclure des concepts ; les démonstrations sont indiquées comme telles.
 
 ---
 
