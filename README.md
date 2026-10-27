@@ -136,6 +136,24 @@ Pour ajouter une image dans le README :
 
 <sub>Un projet client ne sera publié qu’avec l’autorisation nécessaire. Les captures doivent être nettes et ne contenir aucune information confidentielle.</sub>
 
+## Projet — Veloria, maison de douceurs
+
+Une identité chaleureuse pour une maison de pâtisserie artisanale : tons crème et brun, typographie élégante et mise en valeur des créations.
+
+### Page d’accueil
+
+![Page d’accueil de Veloria](./images/veloria/accueil.png)
+
+### Nos créations gourmandes
+
+![Galerie des créations gourmandes de Veloria](./images/veloria/creations.png)
+
+### Contact
+
+![Formulaire de contact de Veloria](./images/veloria/contact.png)
+
+---
+
 ## 06 — Un projet en tête ?
 
 Besoin d’un site vitrine, d’une landing page ou d’une présence web qui vous ressemble ? Retrouvez-moi ici :
