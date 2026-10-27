@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/assets/portfolio-banner.svg" width="100%" alt="YALUM — Selected digital work" />
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/assets/portfolio-banner.svg" width="100%" alt="YALUM — Créations numériques" />
 
 <br/>
 
@@ -12,19 +12,19 @@
 
 <br/><br/>
 
-*Le web comme terrain de jeu : des idées, des interfaces et des expériences à explorer.*
+*Des sites web pensés avec soin, de l’identité visuelle à l’expérience de navigation.*
 
 </div>
 
 ---
 
-## 01 — L’intention
+## À propos
 
-Je suis **YALUM**, créateur de sites web et développeur d’**APPIX**. Ici, je rassemble les projets qui racontent mon travail autrement qu’avec du code : par leur composition, leurs couleurs, leur navigation et les détails qui font leur personnalité.
+Je suis **YALUM**, créateur de sites web et développeur d’**APPIX**. Ce portfolio rassemble des projets et des concepts web à travers leurs interfaces, leurs choix visuels et l’expérience proposée.
 
-Mon objectif : créer des expériences web **claires, soignées et adaptées à leur usage**. Cette galerie évoluera avec les projets et les nouvelles idées.
+Je privilégie des compositions lisibles, une identité cohérente et des interfaces adaptées à leur objectif. Les visuels présentés peuvent inclure des concepts ; lorsqu’un projet est une démonstration, il est indiqué comme tel.
 
-<sub>À savoir : ce dépôt est une vitrine visuelle. Il rassemble des captures et des présentations, pas le code source des sites. Certains projets peuvent être des concepts ou ne pas être hébergés publiquement.</sub>
+---
 
 ## 02 — Sélection visuelle
 
@@ -81,6 +81,8 @@ Des pages qui donnent une place centrale au contenu et à l’action.
 
 </div>
 
+---
+
 ## Projet — Veloria, maison de douceurs
 
 *Concept de site vitrine pour une pâtisserie artisanale : une direction artistique chaleureuse, des créations mises en valeur et un parcours de contact clair.*
@@ -118,64 +120,18 @@ Des pages qui donnent une place centrale au contenu et à l’action.
 </table>
 
 ---
-## 03 — Ce que je crée
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Compétences
 
-### Sites vitrines
-Présenter une activité avec une identité claire et une navigation simple.
+- **Création web** — sites vitrines, pages de présentation et portfolios
+- **Intégration front-end** — HTML, CSS et JavaScript
+- **Expérience utilisateur** — hiérarchie visuelle, responsive et parcours de navigation
 
 ---
 
-### Portfolios
-Mettre en scène des réalisations et donner de la place au travail.
+## Me contacter
 
-</td>
-<td width="50%" valign="top">
-
-### Pages d’atterrissage
-Mettre en avant une offre et guider les visiteurs vers l’essentiel.
-
----
-
-### Blogs & interfaces
-Structurer le contenu et imaginer des parcours faciles à utiliser.
-
-</td>
-</tr>
-</table>
-
-## 04 — Dans les coulisses
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS et JavaScript" />
-
-**HTML · CSS · JavaScript**
-
-<sub>Intégration responsive　/　Mise en page　/　Interactions front-end</sub>
-
-</div>
-
-Je pars d’un besoin, je construis une structure, puis j’affine le rendu pour trouver le bon équilibre entre **lisibilité, cohérence et personnalité**.
-
-## 05 — La galerie évolue
-
-De nouveaux visuels seront ajoutés au fil des projets. Les captures validées seront classées dans **[images](./images/README.md)**, puis présentées ici avec quelques mots sur leur objectif et leur conception.
-
-Pour ajouter une image dans le README :
-
-```md
-![Aperçu du projet](./images/nom-du-fichier.png)
-```
-
-<sub>Un projet client ne sera publié qu’avec l’autorisation nécessaire. Les captures doivent être nettes et ne contenir aucune information confidentielle.</sub>
-
-## 06 — Un projet en tête ?
-
-Besoin d’un site vitrine, d’une landing page ou d’une présence web qui vous ressemble ? Retrouvez-moi ici :
+Pour discuter d’un projet ou d’une collaboration :
 
 <div align="center">
 
@@ -184,8 +140,6 @@ Besoin d’un site vitrine, d’une landing page ou d’une présence web qui vo
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:64FFBD,50:9B8CFF,100:64FFBD&section=footer" width="100%" alt="" />
-
-<sub>YALUM / APPIX　—　Des idées qui prennent forme.</sub>
+<sub>YALUM / APPIX — Des idées qui prennent forme.</sub>
 
 </div>
