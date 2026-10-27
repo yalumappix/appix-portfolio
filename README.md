@@ -83,36 +83,41 @@ Des pages qui donnent une place centrale au contenu et à l’action.
 
 ## Projet — Veloria, maison de douceurs
 
-Trois vues du site conceptuel Veloria : accueil, créations gourmandes et formulaire de contact.
+*Concept de site vitrine pour une pâtisserie artisanale : une direction artistique chaleureuse, des créations mises en valeur et un parcours de contact clair.*
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.45.23.png" width="100%" alt="Accueil du site Veloria" />
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.46.17.png" width="100%" alt="Page d’accueil du site Veloria" />
 
-**01 — Accueil**
+**Accueil**
 
-</td>
-<td width="33%" valign="top">
-
-<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.46.17.png" width="100%" alt="Créations gourmandes de Veloria" />
-
-**02 — Créations gourmandes**
+<sub>Identité visuelle et première impression</sub>
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.45.52.png" width="100%" alt="Formulaire de contact Veloria" />
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.45.23.png" width="100%" alt="Sélection des créations gourmandes de Veloria" />
 
-**03 — Contact**
+**Créations gourmandes**
+
+<sub>Galerie de pâtisseries et spécialités</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/images/veloria/Capture%20d%E2%80%99e%CC%81cran%202026-10-27%20a%CC%80%2015.45.52.png" width="100%" alt="Formulaire de contact du site Veloria" />
+
+**Contact**
+
+<sub>Prise de contact et demandes</sub>
 
 </td>
 </tr>
 </table>
 
 ---
-
 ## 03 — Ce que je crée
 
 <table>
