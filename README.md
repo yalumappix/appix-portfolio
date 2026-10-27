@@ -18,13 +18,13 @@
 
 ---
 
-## 01 — Le regard
+## 01 — L’intention
 
-Je suis **YALUM**, créateur de sites web et développeur du projet **APPIX**. Ce dépôt est ma galerie : un endroit pour rassembler les rendus visuels, les directions graphiques et les projets qui méritent d’être montrés.
+Je suis **YALUM**, créateur de sites web et développeur d’**APPIX**. Ici, je rassemble les projets qui racontent mon travail autrement qu’avec du code : par leur composition, leurs couleurs, leur navigation et les détails qui font leur personnalité.
 
-Mon approche se situe à la rencontre du **design utile**, d’une interface claire et d’une expérience fluide. Chaque projet a son propre caractère, pas besoin de lui faire porter le même costume.
+Mon objectif : créer des expériences web **claires, soignées et adaptées à leur usage**. Cette galerie évoluera avec les projets et les nouvelles idées.
 
-> **Note de galerie** — Ce dépôt présente des visuels et des captures, pas le code source des sites. Certains travaux peuvent être des concepts ou ne pas être accessibles en ligne.
+<sub>À savoir : ce dépôt est une vitrine visuelle. Il rassemble des captures et des présentations, pas le code source des sites. Certains projets peuvent être des concepts ou ne pas être hébergés publiquement.</sub>
 
 ## 02 — Sélection visuelle
 
@@ -81,81 +81,74 @@ Des pages qui donnent une place centrale au contenu et à l’action.
 
 </div>
 
-## 03 — Terrains de création
+## 03 — Ce que je crée
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-**A / Présenter**
+### Sites vitrines
+Présenter une activité avec une identité claire et une navigation simple.
 
-Sites vitrines pour marques, indépendants et activités.
+---
 
-</td>
-<td width="25%" valign="top">
-
-**B / Convertir**
-
-Landing pages pensées autour d’un objectif clair.
+### Portfolios
+Mettre en scène des réalisations et donner de la place au travail.
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-**C / Raconter**
+### Pages d’atterrissage
+Mettre en avant une offre et guider les visiteurs vers l’essentiel.
 
-Portfolios et blogs qui mettent le contenu en valeur.
+---
 
-</td>
-<td width="25%" valign="top">
-
-**D / Explorer**
-
-Concepts d’interface et expérimentations visuelles.
+### Blogs & interfaces
+Structurer le contenu et imaginer des parcours faciles à utiliser.
 
 </td>
 </tr>
 </table>
 
-## 04 — L’atelier
+## 04 — Dans les coulisses
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS et JavaScript" />
 
-<sub>Intégration responsive　·　Interfaces web　·　Interactions front-end</sub>
+**HTML · CSS · JavaScript**
+
+<sub>Intégration responsive　/　Mise en page　/　Interactions front-end</sub>
 
 </div>
 
-J’aime partir d’une intention simple, la traduire en structure, puis soigner les détails qui rendent l’ensemble cohérent.
+Je pars d’un besoin, je construis une structure, puis j’affine le rendu pour trouver le bon équilibre entre **lisibilité, cohérence et personnalité**.
 
-## 05 — Ajouter un projet
+## 05 — La galerie évolue
 
-Les captures validées peuvent être déposées dans le dossier **[images](./images/README.md)**. Pour les intégrer à cette galerie :
+De nouveaux visuels seront ajoutés au fil des projets. Les captures validées seront classées dans **[images](./images/README.md)**, puis présentées ici avec quelques mots sur leur objectif et leur conception.
+
+Pour ajouter une image dans le README :
 
 ```md
 ![Aperçu du projet](./images/nom-du-fichier.png)
 ```
 
-Quelques repères avant publication :
+<sub>Un projet client ne sera publié qu’avec l’autorisation nécessaire. Les captures doivent être nettes et ne contenir aucune information confidentielle.</sub>
 
-- privilégier des captures nettes et assez larges ;
-- préciser le nom du projet et son rôle ;
-- partager uniquement les visuels autorisés, sans données confidentielles ;
-- ajouter un lien de démonstration seulement s’il est disponible.
+## 06 — Un projet en tête ?
 
-## 06 — On échange ?
-
-Une idée de site, une interface à concevoir ou une collaboration en tête ?
+Besoin d’un site vitrine, d’une landing page ou d’une présence web qui vous ressemble ? Retrouvez-moi ici :
 
 <div align="center">
 
-<a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/Parler_d'un_projet-Malt-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Me contacter sur Malt" /></a>
-<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0"><img src="https://img.shields.io/badge/Collaborer-Freelance.com-64FFBD?style=for-the-badge&labelColor=07111B" alt="Me contacter sur Freelance.com" /></a>
+<a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/MALT-Discutons_de_votre_projet-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Discutons sur Malt" /></a>
+<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0"><img src="https://img.shields.io/badge/FREELANCE.COM-Me_contacter-64FFBD?style=for-the-badge&labelColor=07111B" alt="Me contacter sur Freelance.com" /></a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:64FFBD,50:9B8CFF,100:64FFBD&section=footer" width="100%" alt="" />
 
-<sub>UNE GALERIE EN MOUVEMENT · YALUM / APPIX</sub>
+<sub>YALUM / APPIX　—　Des idées qui prennent forme.</sub>
 
 </div>
