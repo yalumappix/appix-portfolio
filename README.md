@@ -30,8 +30,11 @@ Les visuels seront ajoutés progressivement. Chaque projet pourra présenter une
 
 Vous souhaitez en savoir plus sur une réalisation, discuter d’un concept ou demander une création adaptée à votre activité ?
 
-**Contactez APPIX Studio via le profil GitHub :**  
-[github.com/yalumappix](https://github.com/yalumappix)
+Retrouvez-moi sur mes profils professionnels :
+
+- [Mon profil Malt](https://www.malt.fr/profile/zumragokhan?overview)
+- [Mon profil Freelance.com](https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0)
+- [Mon profil GitHub](https://github.com/yalumappix)
 
 Vous pouvez préciser le projet qui vous intéresse et le type de site ou d’interface que vous recherchez.
 
