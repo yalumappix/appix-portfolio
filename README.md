@@ -1,141 +1,161 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/assets/portfolio-banner.svg" width="100%" alt="APPIX Studio — bannière portfolio visuel au style terminal, vert menthe et violet" />
+<img src="https://raw.githubusercontent.com/yalumappix/appix-portfolio/main/assets/portfolio-banner.svg" width="100%" alt="YALUM — Selected digital work" />
 
-<a href="https://odd-salad-6409.yalum-appix.workers.dev"><img src="https://img.shields.io/badge/EXPLORE-APPIX-64FFBD?style=for-the-badge&logo=vercel&logoColor=07111B&labelColor=07111B" alt="Découvrir APPIX" /></a>
-<a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/WEB_PROJECTS-MALT-9B8CFF?style=for-the-badge&logo=malt&logoColor=FFFFFF&labelColor=07111B" alt="Profil Malt" /></a>
-<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0"><img src="https://img.shields.io/badge/FREELANCE.COM-PROFILE-64FFBD?style=for-the-badge&labelColor=07111B" alt="Profil Freelance.com" /></a>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=64FFBD&center=true&vCenter=true&width=800&lines=%3E+Des+id%C3%A9es+transform%C3%A9es+en+exp%C3%A9riences+web.%3B%3E+Sites+vitrines%2C+landing+pages%2C+blogs+et+portfolios.%3B%3E+Un+portfolio+visuel+des+projets+APPIX." alt="Texte animé sur la création web et le portfolio APPIX" />
+<a href="https://odd-salad-6409.yalum-appix.workers.dev">↗ **Découvrir APPIX**</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.malt.fr/profile/zumragokhan?overview">Malt</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0">Freelance.com</a>
 
-<sub><code>STATUS: PORTFOLIO IN PROGRESS</code>　<code>LOCATION: FRANCE</code>　<code>BRAND: YALUM / APPIX</code></sub>
+<br/><br/>
+
+*Le web comme terrain de jeu : des idées, des interfaces et des expériences à explorer.*
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT-64FFBD?style=flat-square&labelColor=07111B" alt="01 About" />
+## 01 — Le regard
 
-Bienvenue dans le **portfolio visuel d’APPIX Studio**, l’espace où je présente des sites web, des interfaces et des concepts créatifs à travers des captures d’écran.
+Je suis **YALUM**, créateur de sites web et développeur du projet **APPIX**. Ce dépôt est ma galerie : un endroit pour rassembler les rendus visuels, les directions graphiques et les projets qui méritent d’être montrés.
 
-Je suis **YALUM**, créateur de sites web et développeur d’**APPIX**, mon projet personnel. Je travaille notamment sur des **sites vitrines**, des **landing pages**, des **portfolios** et des **blogs**.
+Mon approche se situe à la rencontre du **design utile**, d’une interface claire et d’une expérience fluide. Chaque projet a son propre caractère, pas besoin de lui faire porter le même costume.
 
-> `while (curious) { learn(); build(); improve(); }`
+> **Note de galerie** — Ce dépôt présente des visuels et des captures, pas le code source des sites. Certains travaux peuvent être des concepts ou ne pas être accessibles en ligne.
 
-<sub>Ce dépôt présente les rendus visuels des projets : il ne contient pas le code source des sites présentés. Certains concepts peuvent ne pas être hébergés en ligne.</sub>
+## 02 — Sélection visuelle
 
-## <img src="https://img.shields.io/badge/02-VISUAL_SHOWCASE-64FFBD?style=flat-square&labelColor=07111B" alt="02 Visual showcase" />
-
-Les visuels arrivent progressivement. Chaque fiche pourra présenter des captures d’écran et quelques informations sur le projet.
+*La collection se construit progressivement. Les emplacements ci-dessous seront remplacés par les vrais aperçus au fil des projets publiés.*
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### ◈ PROJET 01
-<img src="https://img.shields.io/badge/STATUS-COMING_SOON-9B8CFF?style=flat-square&labelColor=07111B" alt="Visuel à venir" />
+<a href="https://odd-salad-6409.yalum-appix.workers.dev">
+<img src="https://placehold.co/720x430/0B1422/64FFBD?text=01+%2F+APPIX+STUDIO&font=montserrat" width="100%" alt="Emplacement de l’aperçu du projet APPIX" />
+</a>
 
-**Type :** site web / interface
+**01 / APPIX**
 
-Visuels et présentation à ajouter.
+*Projet personnel · Expérience web*
 
-</td>
-<td width="50%" valign="top">
+Un espace pour découvrir l’univers APPIX et son approche de la création web.
 
-### ◈ PROJET 02
-<img src="https://img.shields.io/badge/STATUS-COMING_SOON-9B8CFF?style=flat-square&labelColor=07111B" alt="Visuel à venir" />
-
-**Type :** landing page / site vitrine
-
-Visuels et présentation à ajouter.
+[Explorer le projet ↗](https://odd-salad-6409.yalum-appix.workers.dev)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### ◈ PROJET 03
-<img src="https://img.shields.io/badge/STATUS-COMING_SOON-9B8CFF?style=flat-square&labelColor=07111B" alt="Visuel à venir" />
+<img src="https://placehold.co/520x300/17152B/9B8CFF?text=02+%2F+WEB+DESIGN&font=montserrat" width="100%" alt="Emplacement d’un aperçu de site vitrine" />
 
-**Type :** portfolio / blog
+**02 / Site vitrine**
 
-Visuels et présentation à ajouter.
+*Présentation · Identité*
 
-</td>
-<td width="50%" valign="top">
+Un format pensé pour présenter une activité avec clarté et personnalité.
 
-### ◈ VOTRE PROJET ?
-<img src="https://img.shields.io/badge/STATUS-LET'S_TALK-64FFBD?style=flat-square&labelColor=07111B" alt="Parlons de votre projet" />
+<sub>Visuel à venir</sub>
 
-Une idée de site ou d’interface ? Contactez-moi via mes profils professionnels.
+<br/>
+
+<img src="https://placehold.co/520x300/101D2B/64FFBD?text=03+%2F+INTERFACE&font=montserrat" width="100%" alt="Emplacement d’un aperçu d’interface" />
+
+**03 / Interface & landing page**
+
+*Parcours · Mise en page*
+
+Des pages qui donnent une place centrale au contenu et à l’action.
+
+<sub>Visuel à venir</sub>
 
 </td>
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/03-WHAT_I_BUILD-64FFBD?style=flat-square&labelColor=07111B" alt="03 What I build" />
+<div align="center">
+
+<sub>Chaque image sera accompagnée du contexte du projet, de son intention et, lorsque c’est possible, d’un lien pour le découvrir.</sub>
+
+</div>
+
+## 03 — Terrains de création
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### ◈ Sites vitrines
-Présenter une activité, une marque ou une entreprise avec clarté.
+**A / Présenter**
 
-### ◈ Landing pages
-Mettre en avant une offre et guider le visiteur vers une action.
+Sites vitrines pour marques, indépendants et activités.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### ◈ Portfolios
-Valoriser les projets, les compétences et les réalisations.
+**B / Convertir**
 
-### ◈ Blogs
-Organiser des articles et partager du contenu.
+Landing pages pensées autour d’un objectif clair.
+
+</td>
+<td width="25%" valign="top">
+
+**C / Raconter**
+
+Portfolios et blogs qui mettent le contenu en valeur.
+
+</td>
+<td width="25%" valign="top">
+
+**D / Explorer**
+
+Concepts d’interface et expérimentations visuelles.
 
 </td>
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/04-TECH_STACK-64FFBD?style=flat-square&labelColor=07111B" alt="04 Tech stack" />
+## 04 — L’atelier
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS et JavaScript" />
 
-<sub>Intégration responsive · Interfaces web · Interactions front-end</sub>
+<sub>Intégration responsive　·　Interfaces web　·　Interactions front-end</sub>
 
 </div>
 
-## <img src="https://img.shields.io/badge/05-ADD_VISUALS-64FFBD?style=flat-square&labelColor=07111B" alt="05 Add visuals" />
+J’aime partir d’une intention simple, la traduire en structure, puis soigner les détails qui rendent l’ensemble cohérent.
 
-Quand les captures seront prêtes, ajoute-les dans le dossier **[images/](./images/README.md)**. Tu pourras ensuite les afficher dans la fiche du projet concerné.
+## 05 — Ajouter un projet
 
-Exemple de code Markdown pour afficher une image :
+Les captures validées peuvent être déposées dans le dossier **[images](./images/README.md)**. Pour les intégrer à cette galerie :
 
 ```md
 ![Aperçu du projet](./images/nom-du-fichier.png)
 ```
 
-Privilégie des images nettes et vérifie qu’elles ne révèlent aucune donnée personnelle ou information confidentielle. Pour les projets clients, publie uniquement les visuels que tu es autorisé à partager.
+Quelques repères avant publication :
 
-## <img src="https://img.shields.io/badge/06-CONNECT-64FFBD?style=flat-square&labelColor=07111B" alt="06 Connect" />
+- privilégier des captures nettes et assez larges ;
+- préciser le nom du projet et son rôle ;
+- partager uniquement les visuels autorisés, sans données confidentielles ;
+- ajouter un lien de démonstration seulement s’il est disponible.
 
-<div align="center">
+## 06 — On échange ?
 
-[![APPIX](https://img.shields.io/badge/↗_APPIX-My_personal_project-64FFBD?style=for-the-badge&labelColor=07111B)](https://odd-salad-6409.yalum-appix.workers.dev)
-[![Malt](https://img.shields.io/badge/↗_MALT-My_profile-9B8CFF?style=for-the-badge&labelColor=07111B)](https://www.malt.fr/profile/zumragokhan?overview)
-[![Freelance.com](https://img.shields.io/badge/↗_FREELANCE.COM-My_profile-64FFBD?style=for-the-badge&labelColor=07111B)](https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0)
-
-</div>
-
----
+Une idée de site, une interface à concevoir ou une collaboration en tête ?
 
 <div align="center">
+
+<a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/Parler_d'un_projet-Malt-9B8CFF?style=for-the-badge&labelColor=07111B" alt="Me contacter sur Malt" /></a>
+<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0"><img src="https://img.shields.io/badge/Collaborer-Freelance.com-64FFBD?style=for-the-badge&labelColor=07111B" alt="Me contacter sur Freelance.com" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:64FFBD,50:9B8CFF,100:64FFBD&section=footer" width="100%" alt="" />
 
-<sub><code>DESIGNED IN CURIOSITY · BUILT WITH CARE · YALUM / APPIX ©</code></sub>
+<sub>UNE GALERIE EN MOUVEMENT · YALUM / APPIX</sub>
 
 </div>
